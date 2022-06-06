@@ -1,7 +1,7 @@
-Shakespeare Census
+Marlowe Census
 ==================
 
-A database of early editions of plays attributed to Shakespeare.
+A database of early editions of plays attributed to Christopher Marlowe.
 
 .. image:: https://img.shields.io/badge/built%20with-Cookiecutter%20Django-ff69b4.svg
      :target: https://github.com/pydanny/cookiecutter-django/
